@@ -28,11 +28,11 @@ li a:hover {
   color: aqua;
 }
  .filler1 {
-   font-size: 20px;
+   font-size: 1px;
    background-color: white;
    color: white; 
    width: 5px;
-   height: 300px;
+   height: 5px;
    transition: width 5s, height 7s;
  }
 
@@ -40,6 +40,7 @@ li a:hover {
   width: 300px;
   height: 300px;
   color: fuchsia;
+   font-size: 20px;
 }
 
 /* next div */
